@@ -1,7 +1,21 @@
-h1, h2 {
-  font-family: Lato;
+#viz1 {
+
+  width: 50%;
+  height: 200px;
+
 }
-#viz1, #viz2, #viz3{
+
+#viz2 {
+
   width: 80%;
   height: 300px;
+
 }
+
+#viz3 {
+
+  width: 250%;
+  height: 200px;
+
+}
+
